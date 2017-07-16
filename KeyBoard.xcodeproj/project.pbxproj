@@ -398,6 +398,7 @@
 		0D4EFF171C3CCFBA0076FB32 /* Model.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 0D4EFF151C3CCFBA0076FB32 /* Model.xcdatamodeld */; };
 		0D4EFF1C1C3CCFFF0076FB32 /* RecentFaceEntity+CoreDataProperties.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D4EFF191C3CCFFF0076FB32 /* RecentFaceEntity+CoreDataProperties.m */; };
 		0D4EFF1D1C3CCFFF0076FB32 /* RecentFaceEntity.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D4EFF1B1C3CCFFF0076FB32 /* RecentFaceEntity.m */; };
+		0D5BC6381F1B0EFE00249136 /* KeyBoard.gif in Resources */ = {isa = PBXBuildFile; fileRef = 0D5BC6371F1B0EFE00249136 /* KeyBoard.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -826,6 +827,7 @@
 		0D4EFF191C3CCFFF0076FB32 /* RecentFaceEntity+CoreDataProperties.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "RecentFaceEntity+CoreDataProperties.m"; sourceTree = "<group>"; };
 		0D4EFF1A1C3CCFFF0076FB32 /* RecentFaceEntity.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RecentFaceEntity.h; sourceTree = "<group>"; };
 		0D4EFF1B1C3CCFFF0076FB32 /* RecentFaceEntity.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RecentFaceEntity.m; sourceTree = "<group>"; };
+		0D5BC6371F1B0EFE00249136 /* KeyBoard.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = KeyBoard.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -856,6 +858,7 @@
 		0D2DA87A1C3BC85E000B4E04 = {
 			isa = PBXGroup;
 			children = (
+				0D5BC6371F1B0EFE00249136 /* KeyBoard.gif */,
 				0D4EFF601C3CF5810076FB32 /* New Group */,
 				0D2DA8A21C3BC85E000B4E04 /* KeyBoardTests */,
 				0D2DA8AD1C3BC85E000B4E04 /* KeyBoardUITests */,
@@ -1627,6 +1630,7 @@
 				0D2DAAF01C3BE02D000B4E04 /* 065.gif in Resources */,
 				0D4E02A51C3D02CA0076FB32 /* chat_speechinput_play_2@2x.png in Resources */,
 				0D2DAA351C3BE02D000B4E04 /* 002@2x.png in Resources */,
+				0D5BC6381F1B0EFE00249136 /* KeyBoard.gif in Resources */,
 				0D2DAAAF1C3BE02D000B4E04 /* 043.png in Resources */,
 				0D2DAB001C3BE02D000B4E04 /* 070.png in Resources */,
 				0D2DAAE31C3BE02D000B4E04 /* 060@2x.png in Resources */,
